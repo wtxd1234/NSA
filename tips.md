@@ -1,6 +1,6 @@
 ## NET2103 Network System and Administration:
 
-### Change Management
+### [Change Management](cm.md)
 - **Definition**: The process of managing changes to IT systems and processes in a structured and systematic manner.
 - **Objectives**: Minimize the impact of changes, ensure changes are made efficiently, and maintain the integrity of the system.
 - **Key Components**: Change request, change control board (CCB), change evaluation, implementation, and documentation.
