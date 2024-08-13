@@ -149,5 +149,3 @@ Decentralization refers to the distribution of decision-making authority and adm
 ### Conclusion
 
 The choice between centralization and decentralization in network administration depends on the organization's size, structure, operational needs, and strategic goals. Each approach has its own set of advantages and disadvantages, and the decision should be based on a careful analysis of these factors. In many cases, a hybrid approach may offer the best balance, leveraging the strengths of both centralization and decentralization.
-
-These detailed notes should provide a comprehensive understanding of the key concepts, advantages, disadvantages, and practical considerations related to centralization and decentralization in network administration.
