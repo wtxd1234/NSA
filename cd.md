@@ -110,15 +110,15 @@ Decentralization refers to the distribution of decision-making authority and adm
 | **Aspect**               | **Centralization**                                       | **Decentralization**                                      |
 |--------------------------|----------------------------------------------------------|-----------------------------------------------------------|
 | **Decision-Making**      | Centralized at a single point                            | Distributed across multiple locations                     |
-| **Response Time**        | Slower, centralized approval needed                      | Faster, local units can act independently                  |
-| **Consistency**          | High, uniform policies and procedures                    | Variable, tailored to local needs                          |
-| **Flexibility**          | Low, rigid structure                                     | High, adaptable to local conditions                        |
-| **Resource Management**  | Economical, reduced duplication                          | Potentially higher due to redundancy                       |
-| **Expertise**            | Concentrated, specialized teams                          | Dispersed, varied levels of expertise                      |
-| **Security**             | Easier to enforce uniform security measures              | Variable, more difficult to ensure uniformity              |
-| **Compliance**           | Simplified, easier to maintain standards                 | Complex, harder to ensure consistent compliance            |
-| **Innovation**           | Limited, top-down innovation                             | Encouraged, bottom-up innovation                           |
-| **Risk**                 | Higher single point of failure                           | Spread out, reduced central risk but higher overall risk   |
+| **Response Time**        | Slower, centralized approval needed                      | Faster, local units can act independently✅                  |
+| **Consistency**          | High, uniform policies and procedures✅                    | Variable, tailored to local needs                          |
+| **Flexibility**          | Low, rigid structure                                     | High, adaptable to local conditions✅                        |
+| **Resource Management**  | Economical, reduced duplication✅                          | Potentially higher due to redundancy                       |
+| **Expertise**            | Concentrated, specialized teams✅                        | Dispersed, varied levels of expertise                      |
+| **Security**             | Easier to enforce uniform security measures✅              | Variable, more difficult to ensure uniformity              |
+| **Compliance**           | Simplified, easier to maintain standards✅                 | Complex, harder to ensure consistent compliance            |
+| **Innovation**           | Limited, top-down innovation                             | Encouraged, bottom-up innovation✅                           |
+| **Risk**                 | Higher single point of failure                           | Spread out, reduced central risk but higher overall risk✅   |
 
 ---
 
